@@ -14,7 +14,7 @@
 
 | Proprietà | Dettaglio |
 | :--- | :--- |
-| 👨‍🏫 **Docente/i** | *Da compilare* |
+| 👨‍🏫 **Docente/i** | Prof. Marco Danelutto, Prof. Massimo Torquati, Prof. Gabriele Mencagli |
 | 📝 **Modalità d'Esame** | Scritto + Orale |
 | 🎓 **Crediti** | 9 CFU |
 | 📅 **Collocazione** | 1° Anno · 2° Semestre |
@@ -22,7 +22,12 @@
 
 > 📌 **Note d'Esame:** Al Corso B (matricola dispari) è richiesto Verilog per il progetto di laboratorio.
 
-> 💡 **Nota Corso B (Matricola Dispari):** Per il progetto di laboratorio al Corso B è richiesto **Verilog**.
+---
+
+## 🗣️ Consigli, Domande d'Esame &amp; Lore (Chat Telegram)
+- Scritto con esercizi di Assembly ARMv7 su carta (anche funzioni ricorsive) e reti logiche.
+- Corso B: richiesto progetto in Verilog (Danelutto) e progetto server in C con socket/select/poll (Torquati, controllo rigoroso anti-plagio).
+- Danelutto usa Didawiki, fa ragionare all'orale e apprezza progetti extra personali; Mencagli è molto tranquillo su cache/I/O.
 
 ---
 
